@@ -2,7 +2,7 @@
 ## I denne oppgaven skal du bruke Metasploit til å få tilgang til en maskin
 * Maskinen du skal få tilgang til er åpen i VMWARE
 * Programmet du skal bruke heter Metasploit og er et terminal basert program
-* ![](/metasploit.png)
+* ![](/Bilder/metasploit.png)
 * og nmap 
 * 
 * 
@@ -11,4 +11,4 @@
 «Info» gir informasion om hva modulen gjør
 
 Første du må gøre er å finne ip addressen til maskinene du skal angripe.
-Ipconfig
+"Ipconfig"
