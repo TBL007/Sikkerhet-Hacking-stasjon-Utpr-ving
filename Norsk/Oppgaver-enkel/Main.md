@@ -4,4 +4,3 @@
 * [Oppgave 1](https://gudjon.imkatta.no/usikker.html)
 * [Oppgave 2](https://gudjon.imkatta.no/usikker2.html)
 * [Oppgave 3](https://gudjon.imkatta.no/usikker3.html)
-* [Oppgave 4](https://gudjon.imkatta.no/get.html)
