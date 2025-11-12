@@ -7,3 +7,6 @@
 ## Це складніші завдання, де ви використовуєте metasploit і намагаєтеся отримати доступ до машини.
 * [Norsk](/Norsk/Oppgaver-vanskelig/Main.md)
 * [українська](/Ukrainsk/Oppgaver-vanskelig/Main.md)
+## stalking
+* [norsk](/Norsk/stalking.md)
+* [українська](/Ukrainsk/stalking.md)
